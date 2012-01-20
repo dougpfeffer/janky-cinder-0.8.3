@@ -1,0 +1,2012 @@
+Tcinder
+v4
+r1
+cCheck dependencies
+cProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004E8F344200000000000000EE
+t1318007874
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E2F297B000000000001A384
+t1311713659
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E2F297B00000000000B50A4
+t1311713659
+s741540
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E2F297B0000000000025E48
+t1311713659
+s155208
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004E2F297B0000000000005FA8
+t1311713659
+s24488
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E2F297C0000000000014894
+t1311713660
+s84116
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004DB8539B0000000002B5C7A0
+t1303925659
+s45467552
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004DC1CFCA000000000000A5E0
+t1304547274
+s42464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004DEEB8140000000000043360
+t1307490324
+s275296
+
+N/System/Library/Frameworks/ScreenSaver.framework/ScreenSaver
+c000000004DC1D04200000000000A7940
+t1304547394
+s686400
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/libcinder_d.a
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/LoadOGL.cpp
+c000000004E24CC7C0000000000003753
+t1311034492
+s14163
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwBar.cpp
+c000000004E24CC7C0000000000045D33
+t1311034492
+s286003
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwColors.cpp
+c000000004E24CC7C0000000000001153
+t1311034492
+s4435
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwFonts.cpp
+c000000004E24CC7C0000000000047506
+t1311034492
+s292102
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwMgr.cpp
+c000000004E24CC7C0000000000037137
+t1311034492
+s225591
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwOpenGL.cpp
+c000000004E24CC7C0000000000006CDD
+t1311034492
+s27869
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwPrecomp.cpp
+c000000004E24CC7C0000000000000017
+t1311034492
+s23
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp
+c000000004E24CC7C0000000000001F5E
+t1311034492
+s8030
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/AxisAlignedBox.cpp
+c000000004E24CC7C00000000000012AF
+t1311034492
+s4783
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSpline.cpp
+c000000004E24CC7C0000000000004392
+t1311034492
+s17298
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp
+c000000004E24CC7C00000000000044BD
+t1311034492
+s17597
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp
+c000000004E24CC7C0000000000001D2C
+t1311034492
+s7468
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Buffer.cpp
+c000000004E24CC7C0000000000001472
+t1311034492
+s5234
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp
+c000000004E24CC7C000000000000314C
+t1311034492
+s12620
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp
+c000000004E24CC7C00000000000012DA
+t1311034492
+s4826
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/CaptureImplQtKit.mm
+c000000004E24CC7C0000000000002794
+t1311034492
+s10132
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp
+c000000004E24CC7C0000000000001FE6
+t1311034492
+s8166
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Clipboard.cpp
+c000000004E24CC7C0000000000002685
+t1311034492
+s9861
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp
+c000000004E24CC7C00000000000023D0
+t1311034492
+s9168
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataSource.cpp
+c000000004E24CC7C0000000000000F4B
+t1311034492
+s3915
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataTarget.cpp
+c000000004E24CC7C0000000000000BA1
+t1311034492
+s2977
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Display.cpp
+c000000004E24CC7C000000000000136D
+t1311034492
+s4973
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Exception.cpp
+c000000004E24CC7C00000000000005C6
+t1311034492
+s1478
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Font.cpp
+c000000004E24CC7C00000000000046C2
+t1311034492
+s18114
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageIo.cpp
+c000000004E24CC7C0000000000004D9F
+t1311034492
+s19871
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp
+c000000004E24CC7C000000000000187D
+t1311034492
+s6269
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageTargetFileQuartz.cpp
+c000000004E24CC7C0000000000001AE5
+t1311034492
+s6885
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp
+c000000004E24CC7C0000000000001754
+t1311034492
+s5972
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ObjLoader.cpp
+c000000004E24CC7C0000000000004B35
+t1311034492
+s19253
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Path2d.cpp
+c000000004E24CC7C0000000000004CDA
+t1311034492
+s19674
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Perlin.cpp
+c000000004E24CC7C0000000000002479
+t1311034492
+s9337
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp
+c000000004E24CC7C00000000000008E8
+t1311034492
+s2280
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp
+c000000004E24CC7C0000000000000875
+t1311034492
+s2165
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Ray.cpp
+c000000004E24CC7C00000000000009F3
+t1311034492
+s2547
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp
+c000000004E24CC7C00000000000027C0
+t1311034492
+s10176
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Serial.cpp
+c000000004E24CC7C0000000000002BA5
+t1311034492
+s11173
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Shape2d.cpp
+c000000004E24CC7C0000000000000B69
+t1311034492
+s2921
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Sphere.cpp
+c000000004E24CC7C0000000000000E21
+t1311034492
+s3617
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp
+c000000004E24CC7C00000000000041E5
+t1311034492
+s16869
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp
+c000000004E24CC7C00000000000044B1
+t1311034492
+s17585
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/System.cpp
+c000000004E24CC7C00000000000047DE
+t1311034492
+s18398
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Text.cpp
+c000000004E24CC7C0000000000006563
+t1311034492
+s25955
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Timer.cpp
+c000000004E24CC7C0000000000000BA6
+t1311034492
+s2982
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/TriMesh.cpp
+c000000004E24CC7D0000000000001AEF
+t1311034493
+s6895
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Triangulate.cpp
+c000000004E24CC7D0000000000000C2A
+t1311034493
+s3114
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp
+c000000004E24CC7D0000000000000E56
+t1311034493
+s3670
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/UrlImplCocoa.mm
+c000000004E24CC7D0000000000002834
+t1311034493
+s10292
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp
+c000000004E24CC7D00000000000037C8
+t1311034493
+s14280
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Xml.cpp
+c000000004E24CC7D000000000000347F
+t1311034493
+s13439
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp
+c000000004F0F323C000000000000345B
+t1326395964
+s13403
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp
+c000000004E24CC7D0000000000002087
+t1311034493
+s8327
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm
+c000000004E24CC7D0000000000002920
+t1311034493
+s10528
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm
+c000000004E24CC7D0000000000001539
+t1311034493
+s5433
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererQuartz.mm
+c000000004E24CC7D0000000000000B8A
+t1311034493
+s2954
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm
+c000000004E24CC7D00000000000045FF
+t1311034493
+s17919
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp
+c000000004E24CC7D0000000000002E98
+t1311034493
+s11928
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/Renderer.cpp
+c000000004E24CC7D00000000000023EC
+t1311034493
+s9196
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/CocoaCaConverter.cpp
+c000000004E24CC7D0000000000001DE2
+t1311034493
+s7650
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessor.cpp
+c000000004E24CC7D000000000000090B
+t1311034493
+s2315
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessorImplAccelerate.cpp
+c000000004E24CC7D0000000000000B25
+t1311034493
+s2853
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Input.cpp
+c000000004E24CC7D0000000000000A85
+t1311034493
+s2693
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/InputImplAudioUnit.cpp
+c000000004E24CC7D0000000000003FC9
+t1311034493
+s16329
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Io.cpp
+c000000004E24CC7D0000000000001F96
+t1311034493
+s8086
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Output.cpp
+c000000004E24CC7D000000000000079A
+t1311034493
+s1946
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/OutputImplAudioUnit.cpp
+c000000004E24CC7D0000000000003E2F
+t1311034493
+s15919
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/PcmBuffer.cpp
+c000000004E24CC7D0000000000001B95
+t1311034493
+s7061
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/SourceFile.cpp
+c000000004E24CC7D0000000000002351
+t1311034493
+s9041
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm
+c000000004E24CC7D0000000000005400
+t1311034493
+s21504
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp
+c000000004E24CC7D0000000000000809
+t1311034493
+s2057
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp
+c000000004E24CC7D0000000000004681
+t1311034493
+s18049
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp
+c000000004E24CC7D00000000000020F2
+t1311034493
+s8434
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp
+c000000004E24CC7D0000000000001A76
+t1311034493
+s6774
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp
+c000000004E24CC7D0000000000000879
+t1311034493
+s2169
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp
+c000000004E24CC7D00000000000090AD
+t1311034493
+s37037
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TextureFont.cpp
+c000000004E24CC7D00000000000055BB
+t1311034493
+s21947
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TileRender.cpp
+c000000004E24CC7D000000000000189E
+t1311034493
+s6302
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Vbo.cpp
+c000000004E24CC7D0000000000006062
+t1311034493
+s24674
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp
+c000000004E24CC7D000000000000A39E
+t1311034493
+s41886
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Blend.cpp
+c000000004E24CC7D0000000000003133
+t1311034493
+s12595
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/EdgeDetect.cpp
+c000000004E24CC7D0000000000001500
+t1311034493
+s5376
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Fill.cpp
+c000000004E24CC7D0000000000001820
+t1311034493
+s6176
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Flip.cpp
+c000000004E24CC7D0000000000000852
+t1311034493
+s2130
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Grayscale.cpp
+c000000004E24CC7D00000000000011DF
+t1311034493
+s4575
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Hdr.cpp
+c000000004E24CC7D0000000000000F42
+t1311034493
+s3906
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Premultiply.cpp
+c000000004E24CC7D0000000000001344
+t1311034493
+s4932
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Resize.cpp
+c000000004E24CC7D000000000000392E
+t1311034493
+s14638
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Threshold.cpp
+c000000004E24CC7D000000000000361C
+t1311034493
+s13852
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Trim.cpp
+c000000004E24CC7D0000000000000DC5
+t1311034493
+s3525
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/params/Params.cpp
+c000000004E24CC7D0000000000001FEC
+t1311034493
+s8172
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/MovieWriter.cpp
+c000000004E24CC7D00000000000054DD
+t1311034493
+s21725
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp
+c000000004E24CC7D0000000000006F28
+t1311034493
+s28456
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTimeUtils.cpp
+c000000004E24CC7D0000000000005632
+t1311034493
+s22066
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/bucketalloc.c
+c000000004E24CC7E0000000000001376
+t1311034494
+s4982
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/dict.c
+c000000004E24CC7E0000000000000D6E
+t1311034494
+s3438
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/geom.c
+c000000004E24CC7E00000000000021C3
+t1311034494
+s8643
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/mesh.c
+c000000004E24CC7E0000000000005DDD
+t1311034494
+s24029
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/priorityq.c
+c000000004E24CC7E00000000000033FE
+t1311034494
+s13310
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/sweep.c
+c000000004E24CC7E000000000000B6A6
+t1311034494
+s46758
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/tess.c
+c000000004E24CC7E0000000000005DDD
+t1311034494
+s24029
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/libcinder_d.a-x86_64-master.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererQuartz.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AxisAlignedBox.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSpline.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Blend.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Buffer.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CaptureImplQtKit.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Clipboard.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CocoaCaConverter.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DataSource.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DataTarget.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Display.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/EdgeDetect.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Exception.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/FftProcessor.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/FftProcessorImplAccelerate.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fill.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Flip.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Font.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Grayscale.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Hdr.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageIo.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageTargetFileQuartz.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Input.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/InputImplAudioUnit.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Io.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/LoadOGL.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/MovieWriter.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ObjLoader.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Output.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/OutputImplAudioUnit.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Params.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Path2d.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PcmBuffer.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Perlin.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Premultiply.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTimeUtils.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Ray.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Renderer.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Resize.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Serial.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Shape2d.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/SourceFile.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Sphere.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/System.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Text.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TextureFont.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Threshold.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TileRender.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Timer.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TriMesh.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Triangulate.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Trim.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwBar.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwColors.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwFonts.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwMgr.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwOpenGL.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwPrecomp.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/UrlImplCocoa.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Vbo.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Xml.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/bucketalloc.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/cinder_d.LinkFileList
+c000000004F0F5AD30000000000000081
+t1326406355
+s129
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/dict.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/geom.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/mesh.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/priorityq.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/sweep.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/tess.o
+t2
+s0
+
+N/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch
+c000000004E24CC8000000000000000CD
+t1311034496
+s205
+
+N/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/LoadOGL.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwBar.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwColors.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwFonts.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwMgr.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwOpenGL.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwPrecomp.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/AxisAlignedBox.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSpline.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Buffer.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/CaptureImplQtKit.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Clipboard.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataSource.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataTarget.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Display.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Exception.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Font.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageIo.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageTargetFileQuartz.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ObjLoader.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Path2d.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Perlin.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Ray.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Serial.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Shape2d.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Sphere.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/System.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Text.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Timer.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/TriMesh.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Triangulate.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/UrlImplCocoa.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Xml.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererQuartz.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/Renderer.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/CocoaCaConverter.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessor.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessorImplAccelerate.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Input.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/InputImplAudioUnit.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Io.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Output.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/OutputImplAudioUnit.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/PcmBuffer.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/SourceFile.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TextureFont.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TileRender.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Vbo.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Blend.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/EdgeDetect.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Fill.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Flip.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Grayscale.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Hdr.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Premultiply.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Resize.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Threshold.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Trim.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/params/Params.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/MovieWriter.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTimeUtils.cpp
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/bucketalloc.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/dict.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/geom.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/mesh.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/priorityq.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/sweep.c
+r0
+
+CBuild AST from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/tess.c
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7041725392bfb441^70d1e55392bfb441^---0#1#0#--18"Check dependencies36"7BD466D1-A23F-43DC-A9B2-B8ADA93319A0-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.954101
+e348099157.768416
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp3351f45392bfb441^62bec45592bfb441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp0000000000000000^2292"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o ../src/cinder/app/App.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/App.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/App.o36"85600149-ED23-4495-A873-93E479EC77B3-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.984725
+e348099162.651266
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cppf73f005992bfb441^3cc1a65a92bfb441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp0000000000000000^2317"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o ../src/cinder/app/AppBasic.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppBasic.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppBasic.o36"5F835EFF-9788-4C40-8A6F-D14499F38B65-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.954474
+e348099157.649453
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mma46df45392bfb441^5743a65592bfb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm0000000000000000^2360"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o ../src/cinder/app/AppImplCocoaBasic.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaBasic.mm -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaBasic.o36"F07298FB-ED84-41C6-B34D-A6AAE99914D5-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099161.830063
+e348099163.419483
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mme291d45992bfb441^7c646b5b92bfb441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm0000000000000000^2385"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o ../src/cinder/app/AppImplCocoaRendererGl.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererGl.mm -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererGl.o36"C4DF9B43-21B1-41AB-A7AB-72AB2A5D1BB3-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AppImplCocoaRendererQuartz.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/AppImplCocoaRendererQuartz.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099157.769569
+e348099158.194216
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp7f14c55592bfb441^30b9315692bfb441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp0000000000000000^2078"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o ../src/cinder/Area.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Area.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Area.o36"19A328CF-F91C-4E1A-BC72-D83861EC016E-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/AxisAlignedBox.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/AxisAlignedBox.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSpline.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSpline.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099162.883930
+e348099163.319327
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp145ee25a92bfb441^bac0515b92bfb441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp0000000000000000^2108"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o ../src/cinder/BSplineFit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BSplineFit.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BSplineFit.o36"5C4538A2-1CDD-460D-AF01-AEC80389FE0C-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099162.837279
+e348099162.882729
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp236ad65a92bfb441^61fbe15a92bfb441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp0000000000000000^2118"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o ../src/cinder/BandedMatrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/BandedMatrix.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/BandedMatrix.o36"4CACC057-2841-4BE6-9471-BA7E1B88E9CF-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Blend.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Blend.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Buffer.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Buffer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.955662
+e348099156.352436
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp24b5f45392bfb441^083a5a5492bfb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp0000000000000000^2088"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o ../src/cinder/Camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Camera.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Camera.o36"B622CFCC-5B18-48FB-89EB-2737A2784BFC-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.962273
+e348099159.911947
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cppf86bf65692bfb441^6876e95792bfb441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp0000000000000000^2304"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o ../src/cinder/Capture.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Capture.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Capture.o36"C51E4038-4677-4EDB-B2CE-19B5386040DB-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CaptureImplQtKit.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/CaptureImplQtKit.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099157.650644
+e348099158.923668
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp83a5a65592bfb441^c575ec5692bfb441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp0000000000000000^2093"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o ../src/cinder/Channel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Channel.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Channel.o36"EC26B19E-7EE6-4221-82EC-6F217F092277-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099161.874102
+e348099162.919108
+r0
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:159:8: warning: extra tokens at end of #endif directive [-Wextra-tokens,2]
+o #endif defined( CINDER_MAC )
+o        ^
+o        //
+ofix-it:"/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm":{159:8-159:8}:"//"
+o/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:434:13: warning: enumeration value 'kCGImageAlphaOnly' not handled in switch [-Wswitch-enum,3]
+o                                 switch( alphaInfo ) {
+o                                         ^
+oIn file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:23:
+oIn file included from ../include/cinder/cocoa/CinderCocoa.h:25:
+oIn file included from ../include/cinder/Cinder.h:65:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory:54:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h:544:4:{544:11-544:14}: error: cannot initialize a member subobject of type 'NSString *' with an lvalue of type 'NSString *' [3]
+o         : _M_ptr(__p), _M_refcount(__p, __d)
+o           ^      ~~~
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h:986:4: note: in instantiation of function template specialization 'std::tr1::__shared_ptr<NSString, 2>::__shared_ptr<const NSString, void (*)(const NSString *)>' requested here [3]
+o         : __shared_ptr<_Tp>(__p, __d) { }
+o           ^
+o/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:45:9: note: in instantiation of function template specialization 'std::tr1::shared_ptr<NSString>::shared_ptr<const NSString, void (*)(const NSString *)>' requested here [3]
+o         mPtr = shared_ptr<NSString>( str, safeRelease );
+o                ^
+o2 warnings and 1 error generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm6bd8df5992bfb441^882beb5a92bfb441^-1853"/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:159:8: warning: extra tokens at end of #endif directive [-Wextra-tokens,2] #endif defined( CINDER_MAC )        ^        //fix-it:"/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm":{159:8-159:8}:"//"/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:434:13: warning: enumeration value 'kCGImageAlphaOnly' not handled in switch [-Wswitch-enum,3]                                 switch( alphaInfo ) {                                         ^In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory:54:In file included from ../include/cinder/Cinder.h:65:In file included from ../include/cinder/cocoa/CinderCocoa.h:25:In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:23:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h:544:4:{544:11-544:14}: error: cannot initialize a member subobject of type 'NSString *' with an lvalue of type 'NSString *' [3]         : _M_ptr(__p), _M_refcount(__p, __d)           ^      ~~~/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h:986:4: note: in instantiation of function template specialization 'std::tr1::__shared_ptr<NSString, 2>::__shared_ptr<const NSString, void (*)(const NSString *)>' requested here [3]         : __shared_ptr<_Tp>(__p, __d) { }           ^/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:45:9: note: in instantiation of function template specialization 'std::tr1::shared_ptr<NSString>::shared_ptr<const NSString, void (*)(const NSString *)>' requested here [3]         mPtr = shared_ptr<NSString>( str, safeRelease );                ^2 warnings and 1 error generated.3(21%IDEActivityLogMessage2@39"Extra tokens at end of #endif directive-348099162#0#156#1(26%IDEActivityLogFixItMessage3@23"Fix-It: replace with //-348099162#207#109#-0#23"com.apple.dt.IDE.fix-it23%DVTTextDocumentLocation4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^158#7#158#7#18446744073709551615#0#---2"//1#-4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^158#7#158#7#18446744073709551615#0#29"Lexical or Preprocessor Issue--2@59"Enumeration value 'kCGImageAlphaOnly' not handled in switch-348099162#316#176#-1#-4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^433#12#433#12#18446744073709551615#0#14"Semantic Issue--2@93"Cannot initialize a member subobject of type 'NSString *' with an lvalue of type 'NSString *'-348099162#904#204#7(36%IDEActivityLogHeaderInclusionMessage5@89"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory:54:-348099162#590#90#-0#-4@79"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#---5@52"In file included from ../include/cinder/Cinder.h:65:-348099162#680#53#-0#-4@79"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Cinder.h0000000000000000^64#18446744073709551615#64#18446744073709551615#18446744073709551615#0#---5@63"In file included from ../include/cinder/cocoa/CinderCocoa.h:25:-348099162#733#64#-0#-4@90"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/cocoa/CinderCocoa.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---5@106"In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:23:-348099162#797#107#-0#-4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---2@172"Cannot initialize a member subobject of type 'NSString *' with an lvalue of type 'NSString *' in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h-348099162#18446744073709551615#0#-0#-4@91"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h0000000000000000^543#3#543#3#18446744073709551615#0#---2@163"In instantiation of function template specialization 'std::tr1::__shared_ptr<NSString, 2>::__shared_ptr<const NSString, void (*)(const NSString *)>' requested here124"In instantiation of function template specialization 'std::tr1::__shared_ptr<NSString, 2>::__shared_ptr<const NSString, void348099162#1176#257#5(5@89"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory:54:-348099162#18446744073709551615#0#-0#-4@79"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/memory0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#---5@52"In file included from ../include/cinder/Cinder.h:65:-348099162#18446744073709551615#0#-0#-4@79"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Cinder.h0000000000000000^64#18446744073709551615#64#18446744073709551615#18446744073709551615#0#---5@63"In file included from ../include/cinder/cocoa/CinderCocoa.h:25:-348099162#18446744073709551615#0#-0#-4@90"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/cocoa/CinderCocoa.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---5@106"In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm:23:-348099162#18446744073709551615#0#-0#-4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---2@242"In instantiation of function template specialization 'std::tr1::__shared_ptr<NSString, 2>::__shared_ptr<const NSString, void (*)(const NSString *)>' requested here in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h-348099162#18446744073709551615#0#-0#-4@91"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h0000000000000000^985#3#985#3#18446744073709551615#0#---0#-4@91"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h0000000000000000^985#3#985#3#18446744073709551615#0#14"Semantic Issue--2@156"In instantiation of function template specialization 'std::tr1::shared_ptr<NSString>::shared_ptr<const NSString, void (*)(const NSString *)>' requested here117"In instantiation of function template specialization 'std::tr1::shared_ptr<NSString>::shared_ptr<const NSString, void348099162#1489#254#-0#-4@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/cocoa/CinderCocoa.mm0000000000000000^44#8#44#8#18446744073709551615#0#14"Semantic Issue--2#-4@91"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h0000000000000000^543#3#543#3#18446744073709551615#0#14"Semantic Issue1(4@91"file://localhost/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h0000000000000000^543#10#543#13#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation6@96"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm0000000000000000^2334"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o ../src/cinder/cocoa/CinderCocoa.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/cocoa/CinderCocoa.mm -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderCocoa.o36"ECD139C3-5E51-45EF-9CCD-071E4E1F284C-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099161.110138
+e348099162.836142
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mmbb451c5992bfb441^0514d65a92bfb441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm0000000000000000^2325"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o ../src/cinder/app/CinderView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/CinderView.mm -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CinderView.o36"2A49C064-5264-4A31-93F3-C34637C7E2A9-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Clipboard.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Clipboard.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/CocoaCaConverter.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/CocoaCaConverter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099159.479819
+e348099159.820527
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp92e77a5792bfb441^e010d25792bfb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp0000000000000000^2083"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o ../src/cinder/Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Color.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Color.o36"BCF7371C-6F1D-4C7E-9155-71DEE57F5C7C-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DataSource.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataSource.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DataTarget.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/DataTarget.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Display.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Display.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.937736
+e348099161.872960
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp8523f05892bfb441^397bdf5992bfb441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp0000000000000000^2119"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o ../src/cinder/gl/DisplayList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/DisplayList.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/DisplayList.o36"7DC16D9F-CCFA-45B9-A47C-5F3303A9A2E3-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/EdgeDetect.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/EdgeDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Exception.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Exception.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.013740
+e348099161.108952
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp4697035892bfb441^8ae41b5992bfb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp0000000000000000^2079"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o ../src/cinder/gl/Fbo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Fbo.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fbo.o36"AF83FF43-845C-4F1E-87A2-AB81C2B57BFB-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/FftProcessor.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/FftProcessorImplAccelerate.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/FftProcessorImplAccelerate.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Fill.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Fill.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Flip.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Flip.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Font.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Font.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.924834
+e348099160.020370
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp8dd3ec5692bfb441^5d37055892bfb441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp0000000000000000^2104"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o ../src/cinder/gl/GlslProg.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/GlslProg.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/GlslProg.o36"A019981E-9E77-452C-B307-988461B173A0-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Grayscale.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Grayscale.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Hdr.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Hdr.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageIo.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageIo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.954045
+e348099157.037807
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cppc24ff45392bfb441^c5ae095592bfb441^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp0000000000000000^2374"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o ../src/cinder/ImageSourceFileQuartz.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageSourceFileQuartz.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageSourceFileQuartz.o36"61AF3925-BDE1-4E64-8B38-A402479B419B-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ImageTargetFileQuartz.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ImageTargetFileQuartz.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Input.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Input.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/InputImplAudioUnit.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/InputImplAudioUnit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Io.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Io.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.276200
+e348099158.442614
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cppdec6465692bfb441^0150715692bfb441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp0000000000000000^2106"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o ../src/cinder/app/KeyEvent.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/KeyEvent.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/KeyEvent.o36"CD4EFF44-6532-409B-95F0-55AAF963AC40-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.907458
+e348099161.828913
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cppa661e85892bfb441^a034d45992bfb441^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp0000000000000000^2089"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o ../src/cinder/gl/Light.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Light.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Light.o36"A6588F52-1DFC-4A7F-BC58-E672A7778AB2-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/LoadOGL.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/LoadOGL.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.021539
+e348099160.906244
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cppcd95055892bfb441^8600e85892bfb441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp0000000000000000^2104"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o ../src/cinder/gl/Material.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Material.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Material.o36"B27255D7-113E-4B5B-9333-04F71C02881B-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099156.353590
+e348099156.680070
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp6c975a5492bfb441^eb19ae5492bfb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp0000000000000000^2088"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o ../src/cinder/Matrix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Matrix.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Matrix.o36"CEEC4870-2E57-4B16-800A-D1808091B38F-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/MovieWriter.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/MovieWriter.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/ObjLoader.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ObjLoader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Output.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/Output.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/OutputImplAudioUnit.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/OutputImplAudioUnit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Params.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/params/Params.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Path2d.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Path2d.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PcmBuffer.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/PcmBuffer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Perlin.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Perlin.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099162.652429
+e348099163.119271
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp2218a75a92bfb441^f88a1e5b92bfb441^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp0000000000000000^2098"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o ../src/cinder/PolyLine.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/PolyLine.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/PolyLine.o36"3B8F74AA-C205-420D-8DC5-9C26D6E6CE65-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Premultiply.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Premultiply.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099160.000521
+e348099160.012585
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp2635005892bfb441^fb3b035892bfb441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp0000000000000000^2326"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o ../src/cinder/qtime/QuickTime.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTime.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTime.o36"9A9BD5F8-DB95-4A03-BBB7-9FC1BB6F167B-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/QuickTimeUtils.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/qtime/QuickTimeUtils.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.274474
+e348099158.961087
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cppbd56465692bfb441^a60af65692bfb441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp0000000000000000^2078"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o ../src/cinder/Rand.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rand.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rand.o36"915E5BB7-8E11-48BF-96CB-F111E522C777-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Ray.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Ray.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099159.632782
+e348099159.999293
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp1710a25792bfb441^b7d2ff5792bfb441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp0000000000000000^2078"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o ../src/cinder/Rect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Rect.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Rect.o36"CA6F6675-6C09-4520-BAE4-A4C72B8495CE-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Renderer.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/app/Renderer.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Resize.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Resize.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Serial.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Serial.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Shape2d.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Shape2d.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/SourceFile.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/audio/SourceFile.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Sphere.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Sphere.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.443778
+e348099159.478628
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp43ad715692bfb441^05887a5792bfb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp0000000000000000^2088"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o ../src/cinder/Stream.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Stream.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Stream.o36"2B30D3AD-F27D-4964-BC55-DEBE9976167C-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099157.039022
+e348099158.274943
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp800f0a5592bfb441^e065465692bfb441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp0000000000000000^2093"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o ../src/cinder/Surface.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Surface.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Surface.o36"75D9DF94-8D09-4CEF-AAD8-C00B852FF919-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/System.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/System.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Text.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Text.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099158.195474
+e348099159.631568
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp861d325692bfb441^7dafa15792bfb441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp0000000000000000^2099"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o ../src/cinder/gl/Texture.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Texture.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Texture.o36"F24FF4CA-9E74-43F4-816F-5660A354DDB7-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TextureFont.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TextureFont.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Threshold.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TileRender.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/TileRender.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Timer.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TriMesh.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/TriMesh.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Triangulate.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Triangulate.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Trim.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/ip/Trim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwBar.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwBar.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwColors.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwColors.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwFonts.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwFonts.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwMgr.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwMgr.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwOpenGL.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwOpenGL.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/TwPrecomp.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/AntTweakBar/TwPrecomp.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099159.821673
+e348099160.983561
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp8c69d25792bfb441^b4cbfb5892bfb441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp0000000000000000^2073"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o ../src/cinder/Url.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Url.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Url.o36"BCA5886A-D02B-44E7-9916-FAFD6A582420-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/UrlImplCocoa.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/UrlImplCocoa.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099159.913120
+e348099160.936597
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cppd4d5e95792bfb441^3accef5892bfb441^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp0000000000000000^2314"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o ../src/cinder/Utilities.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Utilities.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Utilities.o36"E9E895D6-7095-49A1-A1DD-1F885A45B224-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Vbo.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/Vbo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/Xml.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/Xml.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/bucketalloc.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/bucketalloc.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/dict.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/dict.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/geom.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/geom.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099156.681387
+e348099158.259522
+r1
+xCompileC
+xbuild/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o
+x/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp:34:
+o../include/cinder/Text.h:37:1:{37:1-37:8}: warning: declaration does not declare anything [-Wmissing-declarations]
+o typedef struct __CTFrame;
+o ^~~~~~~
+o../include/cinder/Text.h:38:1:{38:1-38:8}: warning: declaration does not declare anything [-Wmissing-declarations]
+o typedef struct __CTLine;
+o ^~~~~~~
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cppfd85ae5492bfb441^6d70425692bfb441^-419"In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp:34:../include/cinder/Text.h:37:1:{37:1-37:8}: warning: declaration does not declare anything [-Wmissing-declarations] typedef struct __CTFrame; ^~~~~~~../include/cinder/Text.h:38:1:{38:1-38:8}: warning: declaration does not declare anything [-Wmissing-declarations] typedef struct __CTLine; ^~~~~~~2 warnings generated.2(21%IDEActivityLogMessage2@37"Declaration does not declare anything-348099157#96#115#2(36%IDEActivityLogHeaderInclusionMessage3@95"In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp:34:-348099157#0#96#-0#-23%DVTTextDocumentLocation4@76"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/gl/gl.cpp0000000000000000^33#18446744073709551615#33#18446744073709551615#18446744073709551615#0#---2@102"Declaration does not declare anything in /Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h-348099157#18446744073709551615#0#-0#-4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^36#0#36#0#18446744073709551615#0#---1#-4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^36#0#36#0#18446744073709551615#0#22"Clang LLVM 1.0 Warning1(4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^36#0#36#7#18446744073709551615#0#-2@37"Declaration does not declare anything-348099157#247#115#2(3@95"In file included from /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp:34:-348099157#18446744073709551615#0#-0#-4@76"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/src/cinder/gl/gl.cpp0000000000000000^33#18446744073709551615#33#18446744073709551615#18446744073709551615#0#---2@102"Declaration does not declare anything in /Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h-348099157#18446744073709551615#0#-0#-4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^37#0#37#0#18446744073709551615#0#---1#-4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^37#0#37#0#18446744073709551615#0#22"Clang LLVM 1.0 Warning1(4@77"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/include/cinder/Text.h0000000000000000^37#0#37#7#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation5@85"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp0000000000000000^2074"CompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o ../src/cinder/gl/gl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -include /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch -MMD -MT dependencies -MF /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.d -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/cinder/gl/gl.cpp -o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/gl.o36"1B5FC658-F777-46FF-A703-D4DDBD5DE330-
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/mesh.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/mesh.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/priorityq.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/priorityq.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/sweep.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/sweep.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cinder.build/Debug/cinder.build/Objects-normal/x86_64/tess.o /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../src/libtess2/tess.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/libcinder_d.a normal x86_64
+r0
+
+CMasterObjectLink /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/Objects-normal/libcinder_d.a-x86_64-master.o
+r0
+
+CProcessPCH /Users/dougp/Library/Developer/Xcode/DerivedData/cinder-cjhexlnuwttfwbezmwttgdhkaihw/Index/PrecompiledHeaders/cinder_Prefix-gaqlkbxxlwuzzsfkudbqcrgcobdt_ast/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.938954
+e348099155.954521
+r1
+xProcessPCH
+x/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth
+xcinder_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile cinder_Prefix.pch3370f05392bfb441^365cf45392bfb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch0000000000000000^2052"ProcessPCH /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch -o /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-hdmjivazeftvxeejrjhgoeglpyam/cinder_Prefix.pch.d36"DC4665E4-381A-4BE0-B476-AA7CC3C602B2-
+
+CProcessPCH++ /Users/dougp/Library/Developer/Xcode/DerivedData/cinder-cjhexlnuwttfwbezmwttgdhkaihw/Index/PrecompiledHeaders/cinder_Prefix-groftvhcdpurtlghjkfvsdmkdjrn_ast/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/dougp/Library/Developer/Xcode/DerivedData/cinder-cjhexlnuwttfwbezmwttgdhkaihw/Index/PrecompiledHeaders/cinder_Prefix-hcrkxgakdewerkdhhvotowyawszm_ast/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.938944
+e348099155.952542
+r1
+xProcessPCH++
+x/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth
+xcinder_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile cinder_Prefix.pchd26ef05392bfb441^51def35392bfb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch0000000000000000^2105"ProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch -o /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-bfybrrlhxdanmcbgyardsirwmlmq/cinder_Prefix.pch.d36"8B66770F-1D64-4EF7-B23E-A4F3F526A8DF-
+
+CProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s348099155.938940
+e348099155.952444
+r1
+xProcessPCH++
+x/var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth
+xcinder_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile cinder_Prefix.pch266ff05392bfb441^12d9f35392bfb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch0000000000000000^2316"ProcessPCH++ /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth cinder_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dougp/Downloads/cinder_0.8.3_mac/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-generated-files.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-own-target-headers.hmap -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-all-target-headers.hmap -iquote /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/cinder_d-project-headers.hmap -iquote../include -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib/include -I../boost -I../include/macosx/png -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources/x86_64 -I/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/build/cinder.build/Debug/cinder.build/DerivedSources -F/Users/dougp/Downloads/cinder_0.8.3_mac/xcode/../lib -c /Users/dougp/Downloads/cinder_0.8.3_mac/xcode/cinder_Prefix.pch -o /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Ol/OlMrrYqvGiOmyLUUB4qIgE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/cinder_Prefix-ejcebtwccskfgbfurgbjlejvwatc/cinder_Prefix.pch.d36"F1638929-EDCB-471D-9090-58E140A249BA-
+
